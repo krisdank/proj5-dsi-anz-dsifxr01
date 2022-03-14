@@ -254,7 +254,9 @@ krisdan@hotmail.com
 ## Acknowledgments
 
 
-* Thank you to General Assambly (G.A.) and all your knowledgable instructors
+* General Assambly (G.A.) and all your knowledgable instructors
+* Open-Source Psychometrics Project
+    *  https://openpsychometrics.org/tests/birthorder/development/
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
